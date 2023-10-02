@@ -3,6 +3,7 @@
 
 <br>
 <img alt="Coder GIF" height=200 src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" />
+<img alt="Coder Fighter" height=200 src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.webp"/>
 <br>
 
 ## 🌐 Socials:
