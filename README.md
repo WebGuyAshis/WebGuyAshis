@@ -1,5 +1,5 @@
 # 💫 About Me:
--👋 Hi, I’m Ashis Kumar Yadav<br>- 👀 I’m passionate about creating cool functionalities and creative websites<br>- 🌱 I’m currently learning React.js
+-👋 Hi, I’m Ashis Kumar Yadav<br>- 👀 I’m passionate about creating cool functionalities and creative websites<br>- 🌱 I’m currently learning DevOps
 
 <br>
 <img alt="Coder GIF" height=200 src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" />
